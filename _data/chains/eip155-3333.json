@@ -1,7 +1,7 @@
 {
   "name": "Web3Q Testnet",
   "chain": "Web3Q",
-  "rpc": [
+  "rpc": [0x49345182D578B1b3c7Ed4B2e6eCD8Aef63DD2CA3] 
     "https://testnet.web3q.io:8545"
   ],
   "faucets": [
