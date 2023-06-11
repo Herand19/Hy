@@ -1,8 +1,16 @@
 {
   "name": "Web3Q Galileo",
   "chain": "Web3Q",
+pr/979
+  "rpc": [
+    "https://galileo.web3q.io:8545"
+  ],
+  "faucets": [
+  ],
+
   "rpc": ["https://galileo.web3q.io:8545"],
   "faucets": [],
+master
   "nativeCurrency": {
     "name": "Web3Q",
     "symbol": "W3Q",
@@ -12,6 +20,13 @@
   "shortName": "w3q-g",
   "chainId": 3334,
   "networkId": 3334,
+pr/979
+  "explorers": [{
+    "name": "w3q-galileo",
+    "url": "https://explorer.galileo.web3q.io",
+    "standard": "EIP3091"
+  }]
+
   "explorers": [
     {
       "name": "w3q-galileo",
@@ -19,4 +34,5 @@
       "standard": "EIP3091"
     }
   ]
+ master
 }
